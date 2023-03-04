@@ -1,4 +1,4 @@
-# Microbit_Lesson_16
+# Microbit_Music_Player
 Lesson 16 of my Intro to Python class with the Microbit.
 
 Program Overview: This program is a tilt-adjusted music player. It constantly plays one note and adjusts the note’s pitch based on the tilt of the microbit. It uses the built-in accelerometer to sense tilt levels and also takes inputs with the two microbit buttons. Clicking button a will stop the music and clicking button b will end the program.
